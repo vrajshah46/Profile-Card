@@ -1,3 +1,3 @@
 # Profile-Card
 
-Basic Profile-card using HTML and CSS
+Basic Profile-card miniProject using HTML and CSS
